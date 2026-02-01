@@ -1,4 +1,4 @@
-# Business-Insights-AtliQ-Hardware
+# Business-Insights-AtliQ Technologies
 
 ## Project Overview
 
