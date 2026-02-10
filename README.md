@@ -257,7 +257,7 @@ In Home view, all the views button will be available. User will land on specific
 <img src="https://github.com/sangamesh5725/Business-Insights-AtliQ-Hardware/blob/main/Executive%20View.png">
 
 ***
-You can find full report link here: [Report](https://app.powerbi.com/groups/me/reports/0ddecb90-e28e-4dc0-9e6c-cdc4aa052063/0aa91c20f1f0966bebfc?experience=power-bi)
+You can find full report link here: [Report](https://app.powerbi.com/view?r=eyJrIjoiZTBjMjY1MGMtMmVjMi00YTdkLWJkZTAtOTdkNTRkNzgzNDkwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0aa91c20f1f0966bebfc)
 ***
 
 
